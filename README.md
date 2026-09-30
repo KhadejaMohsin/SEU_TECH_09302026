@@ -1,6 +1,6 @@
 # FuenteLuz Demo Dashboard
 
-Versel URL: https://seu-tech-09302026-swqv.vercel.app/
+Vercel URL: https://seu-tech-09302026-swqv.vercel.app/
 
 FuenteLuz is a business dashboard for understanding how AI shopping assistants describe and recommend a company's products. It brings product facts, AI visibility, misinformation issues, scan activity, and suggested improvements together so a team can see what shoppers may hear and what to fix.
 
