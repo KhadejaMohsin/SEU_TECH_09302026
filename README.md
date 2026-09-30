@@ -1,5 +1,7 @@
 # FuenteLuz Demo Dashboard
 
+Versel URL: https://seu-tech-09302026-swqv.vercel.app/
+
 FuenteLuz is a business dashboard for understanding how AI shopping assistants describe and recommend a company's products. It brings product facts, AI visibility, misinformation issues, scan activity, and suggested improvements together so a team can see what shoppers may hear and what to fix.
 
 This repository is a competition-demo prototype. Product records can come from Supabase, while many visibility scores, impact estimates, issues, and audit events are simulated examples. The standard demo scan does not call a live AI service. This README explains how to set up and try the dashboard. The Next.js app lives in the `autentico-dashboard` folder.
